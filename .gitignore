@@ -102,3 +102,7 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# folders
+puzzles/pokemon_picross
+puzzles/pokemon*
